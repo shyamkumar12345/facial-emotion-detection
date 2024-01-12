@@ -6,7 +6,7 @@ first download all below  files
 2.har cascade classifier
 3.model h5
 4.main.py
-creater a flodder and place all the above 4 files inside it and select main.py files and run it using any compilers whith support python
+creater a foldder and place all the above 4 files inside it and select main.py files and run it using any compilers whith support python
 example:vs code or python complier
 before executing main.py make sure u installed python and corresponding libraries using command prompt
 #libraries
